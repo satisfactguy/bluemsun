@@ -1,9 +1,6 @@
 div.main p:hover{
-	border: 1px solid black;
+	border: 5px double black;
 
-}
-div.main:hover{
-	border: 1px solid black;
 }
 div.main{
 	width: 44px;
